@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Spinner</string>
+    <string name="app_name">Спиннер</string>
     <array name="planets_array">
         <item>Mercury</item>
         <item>Venus</item>
